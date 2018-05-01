@@ -1,1 +1,1 @@
-# learn-tensor-flow
+# Notes on learning tensorflow
